@@ -39,11 +39,10 @@ from.models import Car,CarAdmin
 admin.site.register(Car,CarAdmin)
 
 ```
-Include Your program
+
 
 ## OUTPUT
 
-![alt text](<../../../../../../../exp/ORM2/Screenshot 2025-11-21 113805.png>)
-
+![alt text](<Screenshot 2025-11-21 113805.png>)
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
